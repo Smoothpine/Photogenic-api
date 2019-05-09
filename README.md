@@ -1,2 +1,2 @@
 # Photogenic-api
-The back-end portion of my face recognition app.
+The back-end portion of the face recognition app.
